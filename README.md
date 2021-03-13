@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JaksonCunha
+- 👀 I’m interested in Information Technology mostly about new technologies in programming, machine learning, AI, and IOT.
+- I've been changing my act area on networking and system admin with over six years of experience to start in programming wich I've been studying for more than three years.
+- 🌱 I’m currently learning React and Node.JS  aplying everithing I have learned on my personal projects.
+- I'm looking for a new job as developer.
